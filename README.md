@@ -21,6 +21,8 @@ The questions cover all of the topics touched on within the Linux Academy course
  
  Clear the desk of everything, and have no notes on the walls.
  
+ If you have to edit or use a file within a question use `sudo -i` to switch user to root and to work fast. Don't spend anytime with `chmod` or anything else.
+ 
  Breath, you have time...
  
  #### Tricks
