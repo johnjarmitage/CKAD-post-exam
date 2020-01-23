@@ -3,7 +3,7 @@
 * 19 questions with marks that vary from 15% to 2%, but the majority of questions have a mark of between 8 and 5%. The mark does not correspond to the level of difficulty.
 * There are four clusters, and you are told which one to use at the beginning of each question.
 * Do not expect to be able to answer all questions in 120 minutes. Leave the questions worth < 3% to the end, and return to them only if you have the time.
-* Check if hte question tells you to work in a certain namespace.
+* Check if the question tells you to work in a certain namespace.
 * Work fast but be precise.
 
 #### Sorts of questions
@@ -54,6 +54,15 @@ kubectl get all --all-namespaces
 ```
 * Don't panic, read the error messages when your `kubectl create` does not work.
 
+#### Resources I used
+
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
+https://github.com/dgkanatsios/CKAD-exercises
+
+https://gist.github.com/veggiemonk/70d95df77029b3ebe58637d89ef83b6b
+
 #### P.S.
 
 I hope I don't have to do it again.
+
