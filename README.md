@@ -9,7 +9,7 @@
 #### Sorts of questions
 The questions range from relatively short ones, as in the list of questions found in the dgkanatsios github repo [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises), to the longer questions found in the Linux Academy course.
 
-The questions cover all of the topics touched on within the Linux Academy course. Get comfortable with creating pods, deployments, jobs, cronjobs, and serivces. THere will also be rolling updates and rollbacks. Network policies will be in there along with everything else touched on in the Linux Academy course. If you don't know then of course there are the docs to search, but this can be time consuming and stressful, so best to know the maximum.
+The questions cover all of the topics touched on within the Linux Academy course. Get comfortable with creating pods, deployments, jobs, cronjobs, and services. There will also be rolling updates and rollbacks. Network policies will be in there along with everything else touched on in the Linux Academy course. If you don't know then of course there are the docs to search, but this can be time consuming and stressful, so best to know the maximum.
 
 #### Tips
  
